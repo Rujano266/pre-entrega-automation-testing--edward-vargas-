@@ -3,6 +3,8 @@ Pre Entrega del curso QA Automation de Buenos Aires Aprende - Agencia de Habilid
 
 Propósito del proyecto: Ejecutar lo aprendido hasta ahora en el curso con la finalidad de crear tests automatizados. En este proyecto automatizamos el login y funcionalidad de agregar al carrito un producto de la pagina https://www.saucedemo.com/
 
+Link a Excel donde ejecutamos las pruebas manuales: https://docs.google.com/spreadsheets/d/15aYOMYJ0j7KlYX8ucDtdeD69IAsULyTE/edit?usp=sharing&ouid=107378959440649716983&rtpof=true&sd=true
+
 Tecnologías utilizadas: Python, Pytest y Selenium Web Driver.
 
 Instrucciones de instalación de dependencias:
